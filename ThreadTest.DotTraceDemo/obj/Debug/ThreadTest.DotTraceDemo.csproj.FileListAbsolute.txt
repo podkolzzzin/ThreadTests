@@ -1,0 +1,12 @@
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\bin\Debug\ThreadTest.DotTraceDemo.exe.config
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\bin\Debug\ThreadTest.DotTraceDemo.exe
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\bin\Debug\ThreadTest.DotTraceDemo.pdb
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\obj\Debug\ThreadTest.DotTraceDemo.csprojResolveAssemblyReference.cache
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\obj\Debug\ThreadTest.DotTraceDemo.MainForm.resources
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\obj\Debug\ThreadTest.DotTraceDemo.Properties.Resources.resources
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\obj\Debug\ThreadTest.DotTraceDemo.csproj.GenerateResource.Cache
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\obj\Debug\ThreadTest.DotTraceDemo.exe
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.DotTraceDemo\obj\Debug\ThreadTest.DotTraceDemo.pdb

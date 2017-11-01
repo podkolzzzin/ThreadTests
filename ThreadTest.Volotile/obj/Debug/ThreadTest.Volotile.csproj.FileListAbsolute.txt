@@ -1,0 +1,6 @@
+c:\users\podko\documents\visual studio 2015\Projects\ThreadTest.Volotile\ThreadTest.Volotile\bin\Debug\ThreadTest.Volotile.exe.config
+c:\users\podko\documents\visual studio 2015\Projects\ThreadTest.Volotile\ThreadTest.Volotile\bin\Debug\ThreadTest.Volotile.exe
+c:\users\podko\documents\visual studio 2015\Projects\ThreadTest.Volotile\ThreadTest.Volotile\bin\Debug\ThreadTest.Volotile.pdb
+c:\users\podko\documents\visual studio 2015\Projects\ThreadTest.Volotile\ThreadTest.Volotile\obj\Debug\ThreadTest.Volotile.csprojResolveAssemblyReference.cache
+c:\users\podko\documents\visual studio 2015\Projects\ThreadTest.Volotile\ThreadTest.Volotile\obj\Debug\ThreadTest.Volotile.exe
+c:\users\podko\documents\visual studio 2015\Projects\ThreadTest.Volotile\ThreadTest.Volotile\obj\Debug\ThreadTest.Volotile.pdb

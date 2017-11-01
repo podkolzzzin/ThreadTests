@@ -1,0 +1,6 @@
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.BusyWait\bin\Release\ThreadTest.BusyWait.exe.config
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.BusyWait\bin\Release\ThreadTest.BusyWait.exe
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.BusyWait\bin\Release\ThreadTest.BusyWait.pdb
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.BusyWait\obj\Release\ThreadTest.BusyWait.csprojResolveAssemblyReference.cache
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.BusyWait\obj\Release\ThreadTest.BusyWait.exe
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.BusyWait\obj\Release\ThreadTest.BusyWait.pdb

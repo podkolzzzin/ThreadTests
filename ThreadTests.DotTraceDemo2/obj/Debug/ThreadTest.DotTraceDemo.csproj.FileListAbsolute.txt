@@ -1,0 +1,10 @@
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\obj\Debug\ThreadTest.DotTraceDemo.csprojResolveAssemblyReference.cache
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\obj\Debug\ThreadTests.DotTraceDemo2.MainForm.resources
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\obj\Debug\ThreadTests.DotTraceDemo2.Properties.Resources.resources
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\obj\Debug\ThreadTest.DotTraceDemo.csproj.GenerateResource.Cache
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\obj\Debug\ThreadTests.DotTraceDemo2.exe
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\obj\Debug\ThreadTests.DotTraceDemo2.pdb
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\bin\Debug\ThreadTests.DotTraceDemo2.exe.config
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\bin\Debug\ThreadTests.DotTraceDemo2.exe
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\bin\Debug\ThreadTests.DotTraceDemo2.pdb
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTests.DotTraceDemo2\bin\Debug\ParallelExtensionsExtras.dll

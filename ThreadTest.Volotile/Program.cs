@@ -58,6 +58,16 @@ namespace ThreadTest.Volatile {
 
     static void Main(string[] args) {
 
+      object state = null;
+
+      Thread thread = new Thread(SomeBackgroundJob);
+      thread.Start(state);
+
+      thread.Join();
+
+      ThreadPool.QueueUserWorkItem(SomeBackgroundJob);
+
+
       //LazyInitializedFailer failer = new LazyInitializedFailer();
       //failer.Test();
       const int attempts = 700;
@@ -78,6 +88,14 @@ namespace ThreadTest.Volatile {
           editor.Text = "some text...";
         Thread.SpinWait(100);
       }
+    }
+
+    private static void Callback(IAsyncResult ar) {
+      
+    }
+
+    private static void SomeBackgroundJob(object state) {
+      throw new NotImplementedException();
     }
   }
 }

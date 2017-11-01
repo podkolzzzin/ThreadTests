@@ -1,0 +1,9 @@
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\bin\Release\ThreadTest.TaskDeadlock.exe.config
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\bin\Release\ThreadTest.TaskDeadlock.exe
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\bin\Release\ThreadTest.TaskDeadlock.pdb
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\obj\Release\ThreadTest.TaskDeadlock.csprojResolveAssemblyReference.cache
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\obj\Release\ThreadTest.TaskDeadlock.MainForm.resources
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\obj\Release\ThreadTest.TaskDeadlock.Properties.Resources.resources
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\obj\Release\ThreadTest.TaskDeadlock.csproj.GenerateResource.Cache
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\obj\Release\ThreadTest.TaskDeadlock.exe
+C:\Users\podko\Documents\Visual Studio 2015\Projects\ThreadTests\ThreadTest.TaskDeadlock\obj\Release\ThreadTest.TaskDeadlock.pdb

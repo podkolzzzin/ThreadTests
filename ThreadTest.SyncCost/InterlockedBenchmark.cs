@@ -45,11 +45,48 @@ namespace ThreadTest.SyncCost {
       int i = 0;
       for (; i < Count;) {
         mutex.WaitOne();
-        i++;
-        mutex.ReleaseMutex();
+        try {
+          i++;
+        }
+        finally {
+          mutex.ReleaseMutex();
+        }
+      }
+      return i;
+    }
+
+    [Benchmark]
+    public int ReadWriteLockWait() {
+
+      ReaderWriterLock rwLock = new ReaderWriterLock();
+      int i = 0;
+      for (; i < Count;) {
+        rwLock.AcquireWriterLock(int.MaxValue);
+        try {
+          i++;
+        }
+        finally {
+          rwLock.ReleaseWriterLock();
+        }
+      }
+      return i;
+    }
+
+    [Benchmark]
+    public int ReadWriteLockSlimWait() {
+
+      ReaderWriterLockSlim rwLock = new ReaderWriterLockSlim();
+      int i = 0;
+      for (; i < Count;) {
+        rwLock.EnterWriteLock();
+        try {
+          i++;
+        }
+        finally {
+          rwLock.ExitWriteLock();
+        }
       }
       return i;
     }
   }
-
 }
